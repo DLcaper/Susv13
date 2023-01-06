@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "better-sqlite3": "^8.0.1",
+    "canvas": "^2.10.2",
+    "captcha-canvas": "^3.2.1",
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "discord-giveaways": "^5.0.1",
+    "discord.js": "^13.11.0",
+    "math.js": "^1.1.46",
+    "mathjs": "^11.2.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.1",
+    "ms": "^2.1.3",
+    "path": "^0.12.7",
+    "quick.db": "^9.0.8",
+    "translate-google": "^1.5.0"
+  },
+  "name": "boat",
+  "version": "1.0.0",
+  "description": "bot king devil make by Devil team",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DLcaper/King-Devil.git"
+  },
+  "keywords": [
+    "Devil"
+  ],
+  "author": "Caper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DLcaper/King-Devil/issues"
+  },
+  "homepage": "https://github.com/DLcaper/King-Devil#readme"
+}

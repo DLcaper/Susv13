@@ -1,0 +1,11 @@
+{
+    "token":"your token",
+
+    "prefix":"your prefix",
+
+    "mongo_url":"your mongo link",
+
+    "everyoneMention": false,
+    
+    "hostedBy": true
+}
